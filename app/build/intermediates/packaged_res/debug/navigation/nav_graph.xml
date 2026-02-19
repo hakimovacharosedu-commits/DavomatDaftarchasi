@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/talabalarFragment">
+
+    <!-- Talabalar -->
+    <fragment
+        android:id="@+id/talabalarFragment"
+        android:name="com.example.davomatdaftarchasi.TalabalarFragment"
+        android:label="Talabalar"
+        tools:layout="@layout/fragment_talabalar">
+
+        <action
+            android:id="@+id/action_talabalarFragment_to_talabaQoshishFragment"
+            app:destination="@id/talabaQoshishFragment" />
+
+        <action
+            android:id="@+id/action_talabalarFragment_to_davomatHistoryFragment"
+            app:destination="@id/davomatHistoryFragment" />
+
+    </fragment>
+
+    <!-- Talaba Qo'shish / Tahrirlash -->
+    <fragment
+        android:id="@+id/talabaQoshishFragment"
+        android:name="com.example.davomatdaftarchasi.TalabaQoshishFragment"
+        android:label="Talaba qo'shish"
+        tools:layout="@layout/fragment_talaba_qoshish">
+
+        <argument
+            android:name="talabaId"
+            app:argType="integer"
+            android:defaultValue="-1" />
+
+    </fragment>
+
+    <!-- Davomat -->
+    <fragment
+        android:id="@+id/davomatFragment"
+        android:name="com.example.davomatdaftarchasi.DavomatFragment"
+        android:label="Davomat"
+        tools:layout="@layout/fragment_davomat" />
+
+    <!-- Davomat History -->
+    <fragment
+        android:id="@+id/davomatHistoryFragment"
+        android:name="com.example.davomatdaftarchasi.DavomatHistoryFragment"
+        android:label="Davomat tarixi"
+        tools:layout="@layout/fragment_davomat_history">
+
+        <argument
+            android:name="talabaId"
+            app:argType="integer" />
+
+        <argument
+            android:name="talabaNomi"
+            app:argType="string" />
+
+    </fragment>
+
+    <!-- Statistika -->
+    <fragment
+        android:id="@+id/statistikaFragment"
+        android:name="com.example.davomatdaftarchasi.StatistikaFragment"
+        android:label="Statistika"
+        tools:layout="@layout/fragment_statistika" />
+
+</navigation>

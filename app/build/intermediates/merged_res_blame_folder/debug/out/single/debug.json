@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-merged_res-52:/drawable_bg_edittext.xml.flat",
+        "source": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-main-54:/drawable/bg_edittext.xml"
+    },
+    {
+        "merged": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-merged_res-52:/layout_fragment_statistika.xml.flat",
+        "source": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-main-54:/layout/fragment_statistika.xml"
+    },
+    {
+        "merged": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-merged_res-52:/layout_fragment_talaba_qoshish.xml.flat",
+        "source": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-main-54:/layout/fragment_talaba_qoshish.xml"
+    },
+    {
+        "merged": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-merged_res-52:/layout_fragment_davomat_history.xml.flat",
+        "source": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-main-54:/layout/fragment_davomat_history.xml"
+    },
+    {
+        "merged": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-merged_res-52:/drawable_bg_spinner.xml.flat",
+        "source": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-main-54:/drawable/bg_spinner.xml"
+    },
+    {
+        "merged": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-merged_res-52:/layout_activity_main.xml.flat",
+        "source": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-merged_res-52:/layout_item_history.xml.flat",
+        "source": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-main-54:/layout/item_history.xml"
+    },
+    {
+        "merged": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-merged_res-52:/layout_item_talaba.xml.flat",
+        "source": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-main-54:/layout/item_talaba.xml"
+    },
+    {
+        "merged": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-merged_res-52:/layout_item_davomat.xml.flat",
+        "source": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-main-54:/layout/item_davomat.xml"
+    },
+    {
+        "merged": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-merged_res-52:/layout_item_statistika.xml.flat",
+        "source": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-main-54:/layout/item_statistika.xml"
+    },
+    {
+        "merged": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-merged_res-52:/layout_fragment_talabalar.xml.flat",
+        "source": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-main-54:/layout/fragment_talabalar.xml"
+    },
+    {
+        "merged": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-merged_res-52:/layout_fragment_davomat.xml.flat",
+        "source": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-main-54:/layout/fragment_davomat.xml"
+    },
+    {
+        "merged": "com.example.davomatdaftarchasi.app-merged_res-52:/layout_fragment_talabalar.xml.flat",
+        "source": "com.example.davomatdaftarchasi.app-main-54:/layout/fragment_talabalar.xml"
+    },
+    {
+        "merged": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-merged_res-52:/navigation_nav_graph.xml.flat",
+        "source": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-main-54:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-merged_res-52:/menu_bottom_nav_menu.xml.flat",
+        "source": "/Users/charos/.gradle/daemon/9.0-milestone-1/com.example.davomatdaftarchasi.app-main-54:/menu/bottom_nav_menu.xml"
+    }
+]
